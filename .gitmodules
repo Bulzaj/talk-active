@@ -1,0 +1,18 @@
+[submodule "ta-current-user"]
+	path = ta-current-user
+	url = http://github.com/bulzaj/ta-current-user
+[submodule "ta-services-discovery"]
+	path = ta-services-discovery
+	url = http://github.com/bulzaj/ta-services-discovery
+[submodule "ta-api-gateway"]
+	path = ta-api-gateway
+	url = http://github.com/bulzaj/ta-api-gateway
+[submodule "ta-message-exchange"]
+	path = ta-message-exchange
+	url = http://github.com/bulzaj/ta-message-exchange
+[submodule "ta-conversation-storage"]
+	path = ta-conversation-storage
+	url = http://github.com/bulzaj/ta-conversation-storage
+[submodule "talk-active-client"]
+	path = talk-active-client
+	url = http://github.com/bulzaj/talk-active-client
